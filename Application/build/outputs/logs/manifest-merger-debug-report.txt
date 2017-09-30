@@ -1,0 +1,231 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Zack\AndroidStudioProjects\android-play-places\PlaceCompleteFragment\Application\src\main\AndroidManifest.xml:18:1-48:12
+	package
+		ADDED from C:\Users\Zack\AndroidStudioProjects\android-play-places\PlaceCompleteFragment\Application\src\main\AndroidManifest.xml:19:11-74
+	android:versionName
+		ADDED from C:\Users\Zack\AndroidStudioProjects\android-play-places\PlaceCompleteFragment\Application\src\main\AndroidManifest.xml:21:11-36
+		INJECTED from C:\Users\Zack\AndroidStudioProjects\android-play-places\PlaceCompleteFragment\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Zack\AndroidStudioProjects\android-play-places\PlaceCompleteFragment\Application\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\Zack\AndroidStudioProjects\android-play-places\PlaceCompleteFragment\Application\src\main\AndroidManifest.xml:20:11-34
+		INJECTED from C:\Users\Zack\AndroidStudioProjects\android-play-places\PlaceCompleteFragment\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Zack\AndroidStudioProjects\android-play-places\PlaceCompleteFragment\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Zack\AndroidStudioProjects\android-play-places\PlaceCompleteFragment\Application\src\main\AndroidManifest.xml:18:11-69
+uses-sdk
+ADDED from C:\Users\Zack\AndroidStudioProjects\android-play-places\PlaceCompleteFragment\Application\src\main\AndroidManifest.xml:23:5-25:44
+MERGED from [com.android.support:support-v13:23.1.1] C:\Users\Zack\.android\build-cache\d3fc7ba3be25c8b088e8bceb5a5dfa7a8b8bc606\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:23.1.1] C:\Users\Zack\.android\build-cache\c939afa65cd80ccb22db2d247d2151183680018a\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services:8.4.0] C:\Users\Zack\.android\build-cache\eae44c7a1a61f10bab8ff5708ffbee5aa60c2677\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\Zack\.android\build-cache\b562f5d8da8a7cf87b95d1ac1d378238504c66ec\output\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] C:\Users\Zack\.android\build-cache\bf487c6137159bfc0e4d5a35f1420cb2271b5e1a\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] C:\Users\Zack\.android\build-cache\47c4efead583741c5472dfccd0a8e5f5265bf4d9\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\Zack\.android\build-cache\321bc1e4b16d40ad008c387ac1eb605cd9237f02\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appstate:8.4.0] C:\Users\Zack\.android\build-cache\397610baaac5f0021605bfb090c3607b7050a500\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\Zack\.android\build-cache\b9d236f3b4db9c7187c161add7200637ebba2a37\output\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-cast:8.4.0] C:\Users\Zack\.android\build-cache\18d6c9d62ff5542473c4d2560157a2e9410b9100\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\Zack\.android\build-cache\84c6de65906ebe759fe5502af52eb7f1e378f8e0\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.0] C:\Users\Zack\.android\build-cache\bff6e9a1b9791a07f6bbde31830d688c0aaa8758\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-fitness:8.4.0] C:\Users\Zack\.android\build-cache\a2fc6057d578733af9cb3bd1c75e8e5a4e1e2b4b\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-games:8.4.0] C:\Users\Zack\.android\build-cache\e4b343847ee2f673aac137f7dad0e87d6eab2b05\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:8.4.0] C:\Users\Zack\.android\build-cache\09352a710a6a4e33629c3728461b5d595582a077\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\Zack\.android\build-cache\e6dd1d30f9173ba5d34baddfcbe12a126daaa6b3\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:8.4.0] C:\Users\Zack\.android\build-cache\7df411d10650c852c8cc5f082b0cd49e675f0a9f\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Zack\.android\build-cache\dfe1a9f3149d9304048e50491618cc42da7c1544\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] C:\Users\Zack\.android\build-cache\fc52f8ae3998ebcf220cb51ef1d3dd298915a5ab\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-panorama:8.4.0] C:\Users\Zack\.android\build-cache\599abe6eeb934003e57d4c3bdbbfd5fbe8f9a486\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:8.4.0] C:\Users\Zack\.android\build-cache\0bc2f2741ce1fb662b3c14e8692ac4c63139a658\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:8.4.0] C:\Users\Zack\.android\build-cache\ff85ed4938006a185de8a08727acadf68a273507\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-vision:8.4.0] C:\Users\Zack\.android\build-cache\ae4c8ff89b74a95b942f32e6341e8e1bace19dcd\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-wallet:8.4.0] C:\Users\Zack\.android\build-cache\8f471a12da5d6163ec0d24d2a13b0acb9f618da4\output\AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-identity:8.4.0] C:\Users\Zack\.android\build-cache\b477a37a3f24cf1da02897e6d1ba339364534660\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\Zack\.android\build-cache\6cc0c81fe7be01265f20bdec3c861cc138fde9dc\output\AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-wearable:8.4.0] C:\Users\Zack\.android\build-cache\00f7b8b0bae9491dbc19957073ec0c69b5074718\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] C:\Users\Zack\.android\build-cache\35bbc22a9b6e20915a3971c938178c26252bbd46\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\Zack\.android\build-cache\399fbbe0d21f6091b924031f0e685d2e10ddffc7\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Zack\.android\build-cache\ff2217ed91563d1f9168c3d8da3502201e85217d\output\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from C:\Users\Zack\AndroidStudioProjects\android-play-places\PlaceCompleteFragment\Application\src\main\AndroidManifest.xml:25:13-42
+		INJECTED from C:\Users\Zack\AndroidStudioProjects\android-play-places\PlaceCompleteFragment\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Zack\AndroidStudioProjects\android-play-places\PlaceCompleteFragment\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Zack\AndroidStudioProjects\android-play-places\PlaceCompleteFragment\Application\src\main\AndroidManifest.xml:24:13-39
+		INJECTED from C:\Users\Zack\AndroidStudioProjects\android-play-places\PlaceCompleteFragment\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Zack\AndroidStudioProjects\android-play-places\PlaceCompleteFragment\Application\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\Zack\AndroidStudioProjects\android-play-places\PlaceCompleteFragment\Application\src\main\AndroidManifest.xml:27:5-45:19
+MERGED from [com.android.support:support-v13:23.1.1] C:\Users\Zack\.android\build-cache\d3fc7ba3be25c8b088e8bceb5a5dfa7a8b8bc606\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:23.1.1] C:\Users\Zack\.android\build-cache\c939afa65cd80ccb22db2d247d2151183680018a\output\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services:8.4.0] C:\Users\Zack\.android\build-cache\eae44c7a1a61f10bab8ff5708ffbee5aa60c2677\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\Zack\.android\build-cache\b562f5d8da8a7cf87b95d1ac1d378238504c66ec\output\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] C:\Users\Zack\.android\build-cache\bf487c6137159bfc0e4d5a35f1420cb2271b5e1a\output\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] C:\Users\Zack\.android\build-cache\47c4efead583741c5472dfccd0a8e5f5265bf4d9\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\Zack\.android\build-cache\321bc1e4b16d40ad008c387ac1eb605cd9237f02\output\AndroidManifest.xml:20:5-30:19
+MERGED from [com.google.android.gms:play-services-appstate:8.4.0] C:\Users\Zack\.android\build-cache\397610baaac5f0021605bfb090c3607b7050a500\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\Zack\.android\build-cache\b9d236f3b4db9c7187c161add7200637ebba2a37\output\AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-cast:8.4.0] C:\Users\Zack\.android\build-cache\18d6c9d62ff5542473c4d2560157a2e9410b9100\output\AndroidManifest.xml:19:5-20
+MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\Zack\.android\build-cache\84c6de65906ebe759fe5502af52eb7f1e378f8e0\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.0] C:\Users\Zack\.android\build-cache\bff6e9a1b9791a07f6bbde31830d688c0aaa8758\output\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness:8.4.0] C:\Users\Zack\.android\build-cache\a2fc6057d578733af9cb3bd1c75e8e5a4e1e2b4b\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-games:8.4.0] C:\Users\Zack\.android\build-cache\e4b343847ee2f673aac137f7dad0e87d6eab2b05\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:8.4.0] C:\Users\Zack\.android\build-cache\09352a710a6a4e33629c3728461b5d595582a077\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\Zack\.android\build-cache\e6dd1d30f9173ba5d34baddfcbe12a126daaa6b3\output\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-location:8.4.0] C:\Users\Zack\.android\build-cache\7df411d10650c852c8cc5f082b0cd49e675f0a9f\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Zack\.android\build-cache\dfe1a9f3149d9304048e50491618cc42da7c1544\output\AndroidManifest.xml:26:5-46:19
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] C:\Users\Zack\.android\build-cache\fc52f8ae3998ebcf220cb51ef1d3dd298915a5ab\output\AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-panorama:8.4.0] C:\Users\Zack\.android\build-cache\599abe6eeb934003e57d4c3bdbbfd5fbe8f9a486\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:8.4.0] C:\Users\Zack\.android\build-cache\0bc2f2741ce1fb662b3c14e8692ac4c63139a658\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:8.4.0] C:\Users\Zack\.android\build-cache\ff85ed4938006a185de8a08727acadf68a273507\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-vision:8.4.0] C:\Users\Zack\.android\build-cache\ae4c8ff89b74a95b942f32e6341e8e1bace19dcd\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-identity:8.4.0] C:\Users\Zack\.android\build-cache\b477a37a3f24cf1da02897e6d1ba339364534660\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\Zack\.android\build-cache\6cc0c81fe7be01265f20bdec3c861cc138fde9dc\output\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-wearable:8.4.0] C:\Users\Zack\.android\build-cache\00f7b8b0bae9491dbc19957073ec0c69b5074718\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\Zack\.android\build-cache\399fbbe0d21f6091b924031f0e685d2e10ddffc7\output\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Zack\.android\build-cache\ff2217ed91563d1f9168c3d8da3502201e85217d\output\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\Zack\AndroidStudioProjects\android-play-places\PlaceCompleteFragment\Application\src\main\AndroidManifest.xml:29:13-45
+	android:allowBackup
+		ADDED from C:\Users\Zack\AndroidStudioProjects\android-play-places\PlaceCompleteFragment\Application\src\main\AndroidManifest.xml:28:13-39
+	android:icon
+		ADDED from C:\Users\Zack\AndroidStudioProjects\android-play-places\PlaceCompleteFragment\Application\src\main\AndroidManifest.xml:30:13-47
+	android:theme
+		ADDED from C:\Users\Zack\AndroidStudioProjects\android-play-places\PlaceCompleteFragment\Application\src\main\AndroidManifest.xml:31:13-44
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\Zack\AndroidStudioProjects\android-play-places\PlaceCompleteFragment\Application\src\main\AndroidManifest.xml:33:9-35:56
+	android:value
+		ADDED from C:\Users\Zack\AndroidStudioProjects\android-play-places\PlaceCompleteFragment\Application\src\main\AndroidManifest.xml:35:17-54
+	android:name
+		ADDED from C:\Users\Zack\AndroidStudioProjects\android-play-places\PlaceCompleteFragment\Application\src\main\AndroidManifest.xml:34:17-62
+activity#com.example.google.playservices.placecompletefragment.MainActivity
+ADDED from C:\Users\Zack\AndroidStudioProjects\android-play-places\PlaceCompleteFragment\Application\src\main\AndroidManifest.xml:37:9-44:20
+	android:label
+		ADDED from C:\Users\Zack\AndroidStudioProjects\android-play-places\PlaceCompleteFragment\Application\src\main\AndroidManifest.xml:39:17-49
+	android:name
+		ADDED from C:\Users\Zack\AndroidStudioProjects\android-play-places\PlaceCompleteFragment\Application\src\main\AndroidManifest.xml:38:17-45
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Zack\AndroidStudioProjects\android-play-places\PlaceCompleteFragment\Application\src\main\AndroidManifest.xml:40:13-43:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Zack\AndroidStudioProjects\android-play-places\PlaceCompleteFragment\Application\src\main\AndroidManifest.xml:41:17-68
+	android:name
+		ADDED from C:\Users\Zack\AndroidStudioProjects\android-play-places\PlaceCompleteFragment\Application\src\main\AndroidManifest.xml:41:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Zack\AndroidStudioProjects\android-play-places\PlaceCompleteFragment\Application\src\main\AndroidManifest.xml:42:17-76
+	android:name
+		ADDED from C:\Users\Zack\AndroidStudioProjects\android-play-places\PlaceCompleteFragment\Application\src\main\AndroidManifest.xml:42:27-74
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\Zack\.android\build-cache\b562f5d8da8a7cf87b95d1ac1d378238504c66ec\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] C:\Users\Zack\.android\build-cache\bf487c6137159bfc0e4d5a35f1420cb2271b5e1a\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\Zack\.android\build-cache\321bc1e4b16d40ad008c387ac1eb605cd9237f02\output\AndroidManifest.xml:19:5-67
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\Zack\.android\build-cache\e6dd1d30f9173ba5d34baddfcbe12a126daaa6b3\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Zack\.android\build-cache\dfe1a9f3149d9304048e50491618cc42da7c1544\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\Zack\.android\build-cache\6cc0c81fe7be01265f20bdec3c861cc138fde9dc\output\AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\Zack\.android\build-cache\b562f5d8da8a7cf87b95d1ac1d378238504c66ec\output\AndroidManifest.xml:20:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\Zack\.android\build-cache\b562f5d8da8a7cf87b95d1ac1d378238504c66ec\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] C:\Users\Zack\.android\build-cache\bf487c6137159bfc0e4d5a35f1420cb2271b5e1a\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Zack\.android\build-cache\dfe1a9f3149d9304048e50491618cc42da7c1544\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] C:\Users\Zack\.android\build-cache\fc52f8ae3998ebcf220cb51ef1d3dd298915a5ab\output\AndroidManifest.xml:19:5-79
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\Zack\.android\build-cache\6cc0c81fe7be01265f20bdec3c861cc138fde9dc\output\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\Zack\.android\build-cache\b562f5d8da8a7cf87b95d1ac1d378238504c66ec\output\AndroidManifest.xml:21:22-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\Zack\.android\build-cache\b562f5d8da8a7cf87b95d1ac1d378238504c66ec\output\AndroidManifest.xml:26:9-29:64
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\Zack\.android\build-cache\b562f5d8da8a7cf87b95d1ac1d378238504c66ec\output\AndroidManifest.xml:28:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\Zack\.android\build-cache\b562f5d8da8a7cf87b95d1ac1d378238504c66ec\output\AndroidManifest.xml:29:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\Zack\.android\build-cache\b562f5d8da8a7cf87b95d1ac1d378238504c66ec\output\AndroidManifest.xml:27:13-65
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\Zack\.android\build-cache\b562f5d8da8a7cf87b95d1ac1d378238504c66ec\output\AndroidManifest.xml:30:9-31:52
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\Zack\.android\build-cache\b562f5d8da8a7cf87b95d1ac1d378238504c66ec\output\AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\Zack\.android\build-cache\b562f5d8da8a7cf87b95d1ac1d378238504c66ec\output\AndroidManifest.xml:30:19-91
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\Zack\.android\build-cache\321bc1e4b16d40ad008c387ac1eb605cd9237f02\output\AndroidManifest.xml:21:9-29:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\Zack\.android\build-cache\321bc1e4b16d40ad008c387ac1eb605cd9237f02\output\AndroidManifest.xml:23:17-40
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\Zack\.android\build-cache\321bc1e4b16d40ad008c387ac1eb605cd9237f02\output\AndroidManifest.xml:24:17-63
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\Zack\.android\build-cache\321bc1e4b16d40ad008c387ac1eb605cd9237f02\output\AndroidManifest.xml:22:17-48
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\Zack\.android\build-cache\321bc1e4b16d40ad008c387ac1eb605cd9237f02\output\AndroidManifest.xml:25:13-28:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\Zack\.android\build-cache\321bc1e4b16d40ad008c387ac1eb605cd9237f02\output\AndroidManifest.xml:26:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\Zack\.android\build-cache\321bc1e4b16d40ad008c387ac1eb605cd9237f02\output\AndroidManifest.xml:26:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\Zack\.android\build-cache\321bc1e4b16d40ad008c387ac1eb605cd9237f02\output\AndroidManifest.xml:27:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\Zack\.android\build-cache\321bc1e4b16d40ad008c387ac1eb605cd9237f02\output\AndroidManifest.xml:27:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\Zack\.android\build-cache\b9d236f3b4db9c7187c161add7200637ebba2a37\output\AndroidManifest.xml:21:9-24:46
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\Zack\.android\build-cache\b9d236f3b4db9c7187c161add7200637ebba2a37\output\AndroidManifest.xml:23:19-52
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\Zack\.android\build-cache\b9d236f3b4db9c7187c161add7200637ebba2a37\output\AndroidManifest.xml:24:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\Zack\.android\build-cache\b9d236f3b4db9c7187c161add7200637ebba2a37\output\AndroidManifest.xml:22:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\Zack\.android\build-cache\b9d236f3b4db9c7187c161add7200637ebba2a37\output\AndroidManifest.xml:21:19-72
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\Zack\.android\build-cache\b9d236f3b4db9c7187c161add7200637ebba2a37\output\AndroidManifest.xml:28:9-31:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\Zack\.android\build-cache\b9d236f3b4db9c7187c161add7200637ebba2a37\output\AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\Zack\.android\build-cache\b9d236f3b4db9c7187c161add7200637ebba2a37\output\AndroidManifest.xml:31:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\Zack\.android\build-cache\b9d236f3b4db9c7187c161add7200637ebba2a37\output\AndroidManifest.xml:29:13-62
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\Zack\.android\build-cache\e6dd1d30f9173ba5d34baddfcbe12a126daaa6b3\output\AndroidManifest.xml:21:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\Zack\.android\build-cache\e6dd1d30f9173ba5d34baddfcbe12a126daaa6b3\output\AndroidManifest.xml:21:22-79
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Zack\.android\build-cache\dfe1a9f3149d9304048e50491618cc42da7c1544\output\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Zack\.android\build-cache\dfe1a9f3149d9304048e50491618cc42da7c1544\output\AndroidManifest.xml:24:22-65
+provider#com.google.android.gms.measurement.AppMeasurementContentProvider
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Zack\.android\build-cache\dfe1a9f3149d9304048e50491618cc42da7c1544\output\AndroidManifest.xml:28:7-31:37
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Zack\.android\build-cache\dfe1a9f3149d9304048e50491618cc42da7c1544\output\AndroidManifest.xml:29:11-76
+		INJECTED from C:\Users\Zack\AndroidStudioProjects\android-play-places\PlaceCompleteFragment\Application\src\main\AndroidManifest.xml
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Zack\.android\build-cache\dfe1a9f3149d9304048e50491618cc42da7c1544\output\AndroidManifest.xml:31:11-35
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Zack\.android\build-cache\dfe1a9f3149d9304048e50491618cc42da7c1544\output\AndroidManifest.xml:30:11-90
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Zack\.android\build-cache\dfe1a9f3149d9304048e50491618cc42da7c1544\output\AndroidManifest.xml:33:7-39:18
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Zack\.android\build-cache\dfe1a9f3149d9304048e50491618cc42da7c1544\output\AndroidManifest.xml:35:11-33
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Zack\.android\build-cache\dfe1a9f3149d9304048e50491618cc42da7c1544\output\AndroidManifest.xml:34:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Zack\.android\build-cache\dfe1a9f3149d9304048e50491618cc42da7c1544\output\AndroidManifest.xml:36:9-38:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Zack\.android\build-cache\dfe1a9f3149d9304048e50491618cc42da7c1544\output\AndroidManifest.xml:37:11-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Zack\.android\build-cache\dfe1a9f3149d9304048e50491618cc42da7c1544\output\AndroidManifest.xml:37:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Zack\.android\build-cache\dfe1a9f3149d9304048e50491618cc42da7c1544\output\AndroidManifest.xml:41:7-44:37
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Zack\.android\build-cache\dfe1a9f3149d9304048e50491618cc42da7c1544\output\AndroidManifest.xml:43:11-33
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Zack\.android\build-cache\dfe1a9f3149d9304048e50491618cc42da7c1544\output\AndroidManifest.xml:44:11-35
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Zack\.android\build-cache\dfe1a9f3149d9304048e50491618cc42da7c1544\output\AndroidManifest.xml:42:11-82
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\Zack\.android\build-cache\6cc0c81fe7be01265f20bdec3c861cc138fde9dc\output\AndroidManifest.xml:22:5-24:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\Zack\.android\build-cache\6cc0c81fe7be01265f20bdec3c861cc138fde9dc\output\AndroidManifest.xml:23:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\Zack\.android\build-cache\6cc0c81fe7be01265f20bdec3c861cc138fde9dc\output\AndroidManifest.xml:24:8-31
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\Zack\.android\build-cache\399fbbe0d21f6091b924031f0e685d2e10ddffc7\output\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\Zack\.android\build-cache\399fbbe0d21f6091b924031f0e685d2e10ddffc7\output\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\Zack\.android\build-cache\399fbbe0d21f6091b924031f0e685d2e10ddffc7\output\AndroidManifest.xml:22:13-58

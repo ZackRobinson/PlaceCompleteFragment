@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "C:\\Users\\Zack\\AndroidStudioProjects\\android-play-places\\PlaceCompleteFragment\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w480dp-v13\\values-w480dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 61,
+                    "endOffset": 112
+                },
+                "from": {
+                    "file": "C:\\Users\\Zack\\.android\\build-cache\\bff6e9a1b9791a07f6bbde31830d688c0aaa8758\\output\\res\\values-w480dp\\values-w480dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 278,
+                        "endColumn": 61,
+                        "endOffset": 335
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 117,
+                    "endColumn": 71,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "C:\\Users\\Zack\\.android\\build-cache\\bff6e9a1b9791a07f6bbde31830d688c0aaa8758\\output\\res\\values-w480dp\\values-w480dp.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 564,
+                        "endColumn": 71,
+                        "endOffset": 631
+                    }
+                }
+            }
+        ]
+    }
+]

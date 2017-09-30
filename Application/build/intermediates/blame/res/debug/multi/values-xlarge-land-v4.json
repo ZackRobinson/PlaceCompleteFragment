@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\Zack\\AndroidStudioProjects\\android-play-places\\PlaceCompleteFragment\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xlarge-land-v4\\values-xlarge-land-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "C:\\Users\\Zack\\.android\\build-cache\\bff6e9a1b9791a07f6bbde31830d688c0aaa8758\\output\\res\\values-xlarge-land\\values-xlarge-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 284,
+                        "endColumn": 63,
+                        "endOffset": 343
+                    }
+                }
+            }
+        ]
+    }
+]

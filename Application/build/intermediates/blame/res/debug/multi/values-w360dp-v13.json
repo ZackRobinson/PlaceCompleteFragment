@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\Zack\\AndroidStudioProjects\\android-play-places\\PlaceCompleteFragment\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w360dp-v13\\values-w360dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "C:\\Users\\Zack\\.android\\build-cache\\bff6e9a1b9791a07f6bbde31830d688c0aaa8758\\output\\res\\values-w360dp\\values-w360dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 279,
+                        "endColumn": 54,
+                        "endOffset": 329
+                    }
+                }
+            }
+        ]
+    }
+]
