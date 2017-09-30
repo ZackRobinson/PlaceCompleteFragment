@@ -38,9 +38,11 @@
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
+
+        <!-- Added an API key -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="ADD_YOUR_API_KEY_HERE" />
+            android:value="AIzaSyDArmCya9WtkHJeCJo8TBpEyHCkgbOL5k4" />
 
         <activity
             android:name="com.example.google.playservices.placecompletefragment.MainActivity"

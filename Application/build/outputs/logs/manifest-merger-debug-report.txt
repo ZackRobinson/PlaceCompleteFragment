@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Zack\AndroidStudioProjects\android-play-places\PlaceCompleteFragment\Application\src\main\AndroidManifest.xml:18:1-48:12
+ADDED from C:\Users\Zack\AndroidStudioProjects\android-play-places\PlaceCompleteFragment\Application\src\main\AndroidManifest.xml:18:1-49:12
 	package
 		ADDED from C:\Users\Zack\AndroidStudioProjects\android-play-places\PlaceCompleteFragment\Application\src\main\AndroidManifest.xml:19:11-74
 	android:versionName
@@ -54,7 +54,7 @@ MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Zack\.android\build
 		INJECTED from C:\Users\Zack\AndroidStudioProjects\android-play-places\PlaceCompleteFragment\Application\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Zack\AndroidStudioProjects\android-play-places\PlaceCompleteFragment\Application\src\main\AndroidManifest.xml
 application
-ADDED from C:\Users\Zack\AndroidStudioProjects\android-play-places\PlaceCompleteFragment\Application\src\main\AndroidManifest.xml:27:5-45:19
+ADDED from C:\Users\Zack\AndroidStudioProjects\android-play-places\PlaceCompleteFragment\Application\src\main\AndroidManifest.xml:27:5-46:19
 MERGED from [com.android.support:support-v13:23.1.1] C:\Users\Zack\.android\build-cache\d3fc7ba3be25c8b088e8bceb5a5dfa7a8b8bc606\output\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:cardview-v7:23.1.1] C:\Users\Zack\.android\build-cache\c939afa65cd80ccb22db2d247d2151183680018a\output\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services:8.4.0] C:\Users\Zack\.android\build-cache\eae44c7a1a61f10bab8ff5708ffbee5aa60c2677\output\AndroidManifest.xml:19:5-20
@@ -92,27 +92,27 @@ MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Zack\.android\build
 	android:theme
 		ADDED from C:\Users\Zack\AndroidStudioProjects\android-play-places\PlaceCompleteFragment\Application\src\main\AndroidManifest.xml:31:13-44
 meta-data#com.google.android.geo.API_KEY
-ADDED from C:\Users\Zack\AndroidStudioProjects\android-play-places\PlaceCompleteFragment\Application\src\main\AndroidManifest.xml:33:9-35:56
+ADDED from C:\Users\Zack\AndroidStudioProjects\android-play-places\PlaceCompleteFragment\Application\src\main\AndroidManifest.xml:34:9-36:74
 	android:value
-		ADDED from C:\Users\Zack\AndroidStudioProjects\android-play-places\PlaceCompleteFragment\Application\src\main\AndroidManifest.xml:35:17-54
+		ADDED from C:\Users\Zack\AndroidStudioProjects\android-play-places\PlaceCompleteFragment\Application\src\main\AndroidManifest.xml:36:17-72
 	android:name
-		ADDED from C:\Users\Zack\AndroidStudioProjects\android-play-places\PlaceCompleteFragment\Application\src\main\AndroidManifest.xml:34:17-62
+		ADDED from C:\Users\Zack\AndroidStudioProjects\android-play-places\PlaceCompleteFragment\Application\src\main\AndroidManifest.xml:35:17-62
 activity#com.example.google.playservices.placecompletefragment.MainActivity
-ADDED from C:\Users\Zack\AndroidStudioProjects\android-play-places\PlaceCompleteFragment\Application\src\main\AndroidManifest.xml:37:9-44:20
+ADDED from C:\Users\Zack\AndroidStudioProjects\android-play-places\PlaceCompleteFragment\Application\src\main\AndroidManifest.xml:38:9-45:20
 	android:label
-		ADDED from C:\Users\Zack\AndroidStudioProjects\android-play-places\PlaceCompleteFragment\Application\src\main\AndroidManifest.xml:39:17-49
+		ADDED from C:\Users\Zack\AndroidStudioProjects\android-play-places\PlaceCompleteFragment\Application\src\main\AndroidManifest.xml:40:17-49
 	android:name
-		ADDED from C:\Users\Zack\AndroidStudioProjects\android-play-places\PlaceCompleteFragment\Application\src\main\AndroidManifest.xml:38:17-45
+		ADDED from C:\Users\Zack\AndroidStudioProjects\android-play-places\PlaceCompleteFragment\Application\src\main\AndroidManifest.xml:39:17-45
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\Zack\AndroidStudioProjects\android-play-places\PlaceCompleteFragment\Application\src\main\AndroidManifest.xml:40:13-43:29
+ADDED from C:\Users\Zack\AndroidStudioProjects\android-play-places\PlaceCompleteFragment\Application\src\main\AndroidManifest.xml:41:13-44:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Zack\AndroidStudioProjects\android-play-places\PlaceCompleteFragment\Application\src\main\AndroidManifest.xml:41:17-68
+ADDED from C:\Users\Zack\AndroidStudioProjects\android-play-places\PlaceCompleteFragment\Application\src\main\AndroidManifest.xml:42:17-68
 	android:name
-		ADDED from C:\Users\Zack\AndroidStudioProjects\android-play-places\PlaceCompleteFragment\Application\src\main\AndroidManifest.xml:41:25-66
+		ADDED from C:\Users\Zack\AndroidStudioProjects\android-play-places\PlaceCompleteFragment\Application\src\main\AndroidManifest.xml:42:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Zack\AndroidStudioProjects\android-play-places\PlaceCompleteFragment\Application\src\main\AndroidManifest.xml:42:17-76
+ADDED from C:\Users\Zack\AndroidStudioProjects\android-play-places\PlaceCompleteFragment\Application\src\main\AndroidManifest.xml:43:17-76
 	android:name
-		ADDED from C:\Users\Zack\AndroidStudioProjects\android-play-places\PlaceCompleteFragment\Application\src\main\AndroidManifest.xml:42:27-74
+		ADDED from C:\Users\Zack\AndroidStudioProjects\android-play-places\PlaceCompleteFragment\Application\src\main\AndroidManifest.xml:43:27-74
 uses-permission#android.permission.INTERNET
 ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\Zack\.android\build-cache\b562f5d8da8a7cf87b95d1ac1d378238504c66ec\output\AndroidManifest.xml:20:5-66
 MERGED from [com.google.android.gms:play-services-analytics:8.4.0] C:\Users\Zack\.android\build-cache\bf487c6137159bfc0e4d5a35f1420cb2271b5e1a\output\AndroidManifest.xml:21:5-67

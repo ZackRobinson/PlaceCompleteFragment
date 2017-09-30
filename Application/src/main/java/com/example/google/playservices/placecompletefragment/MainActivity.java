@@ -21,12 +21,11 @@ import com.google.android.gms.location.places.Place;
 import com.google.android.gms.location.places.ui.PlaceAutocompleteFragment;
 import com.google.android.gms.location.places.ui.PlaceSelectionListener;
 
-import com.example.android.common.activities.SampleActivityBase;
-import com.example.android.common.logger.Log;
 
 import android.content.res.Resources;
 import android.net.Uri;
 import android.os.Bundle;
+import android.support.v4.app.FragmentActivity;
 import android.text.Html;
 import android.text.Spanned;
 import android.text.TextUtils;
@@ -34,8 +33,9 @@ import android.view.View;
 import android.widget.TextView;
 import android.widget.Toast;
 
-public class MainActivity extends SampleActivityBase implements PlaceSelectionListener {
+public class MainActivity extends FragmentActivity implements PlaceSelectionListener {
 
+    public static final String TAG = "MainActivityTag";
     private TextView mPlaceDetailsText;
 
     private TextView mPlaceAttribution;
@@ -64,7 +64,8 @@ public class MainActivity extends SampleActivityBase implements PlaceSelectionLi
      */
     @Override
     public void onPlaceSelected(Place place) {
-        Log.i(TAG, "Place Selected: " + place.getName());
+        String name = (String) place.getName();
+        Toast.makeText(this, name.replace(" ", "+"), Toast.LENGTH_SHORT).show();
 
         // Format the returned place's details and display them in the TextView.
         mPlaceDetailsText.setText(formatPlaceDetails(getResources(), place.getName(), place.getId(),
@@ -83,7 +84,6 @@ public class MainActivity extends SampleActivityBase implements PlaceSelectionLi
      */
     @Override
     public void onError(Status status) {
-        Log.e(TAG, "onError: Status = " + status.toString());
 
         Toast.makeText(this, "Place selection failed: " + status.getStatusMessage(),
                 Toast.LENGTH_SHORT).show();
@@ -94,8 +94,6 @@ public class MainActivity extends SampleActivityBase implements PlaceSelectionLi
      */
     private static Spanned formatPlaceDetails(Resources res, CharSequence name, String id,
             CharSequence address, CharSequence phoneNumber, Uri websiteUri) {
-        Log.e(TAG, res.getString(R.string.place_details, name, id, address, phoneNumber,
-                websiteUri));
         return Html.fromHtml(res.getString(R.string.place_details, name, id, address, phoneNumber,
                 websiteUri));
 
